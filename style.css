@@ -1,7 +1,22 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: #4f509e;
+
+  text-align: center;
+  text-decoration: darkblue;
+}
+main{
+  position: absolute;
+
+  right: 150px;
+  padding: 150px;
 }
 canvas {
   display: block;
+}
+main{
+  position: absolute;
+  top: 350px;
+  left: 100px;
 }
